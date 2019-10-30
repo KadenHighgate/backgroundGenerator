@@ -1,0 +1,23 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "Simple background generator from user input.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KadenHighgate/backgroundGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KadenHighgate/backgroundGenerator/issues"
+  },
+  "homepage": "https://github.com/KadenHighgate/backgroundGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
